@@ -154,6 +154,11 @@ __________________________________________
 <img width="2880" height="1620" alt="curious" src="https://github.com/user-attachments/assets/7a0e252c-6b0f-4501-988e-ca5b082fe05e" />
 
 
+
+__________________________________________
+
+
+
 ### **Barriers & Levers by Persona** 
 
 Opportunity binds three of the four personas. Most of the addressable problem is environmental rather than interface-level. Each lever must match its gate; otherwise, the spend doesn't happen.
