@@ -108,7 +108,8 @@ The framework helped us move beyond the idea of a single "bitcoin user" and inst
 
 **NEW:**
 
-**![][image1]**
+<img width="1149" height="1369" alt="Image2" src="https://github.com/user-attachments/assets/75272eb7-3858-40fe-960b-966a6e21f6da" />
+
 
 **OLD:** 
 
