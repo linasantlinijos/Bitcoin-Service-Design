@@ -58,7 +58,7 @@ Our research is divided into two phases. You'll find more details about the Phas
 
 ## **What We Found**
 
-**Contextual Note:** *These findings are specific to our Bitcoin research, noting that the service design ecosystem will differ for each individual product and service.*
+**Contextual Note:** *These findings are specific to our Bitcoin research, noting that the service design ecosystem might differ for each individual product and service.*
 
 ### **Spending Environment Is the Key Constraint**
 
