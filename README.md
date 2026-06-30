@@ -125,9 +125,13 @@ Each persona represents a distinct relationship with bitcoin, defined by three i
 <img width="736" height="505" alt="bitcoin_payment_behaviour" src="https://github.com/user-attachments/assets/41fbffe7-e554-43f2-b575-9f668d25fa1f" />
 
 
-The personas should not be understood as rigid categories. Instead, they represent recurring behavioral patterns observed across users. Individuals may move between personas over time as their understanding of bitcoin evolves, their circumstances change, or they become more deeply embedded in the bitcoin ecosystem.
+__________________________________________
+
+
 
 ### **BTC Personas**
+
+The personas should not be understood as rigid categories. Instead, they represent recurring behavioral patterns observed across users. Individuals may move between personas over time as their understanding of bitcoin evolves, their circumstances change, or they become more deeply embedded in the bitcoin ecosystem.
 
 <img width="2880" height="1620" alt="holder" src="https://github.com/user-attachments/assets/39e2f75a-4ec8-4ad9-af9b-2fffd1463e3c" />
 
