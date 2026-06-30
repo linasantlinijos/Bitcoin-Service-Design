@@ -130,6 +130,8 @@ The personas should not be understood as rigid categories. Instead, they represe
 ### **BTC Personas**
 
 <img width="2880" height="1620" alt="holder" src="https://github.com/user-attachments/assets/39e2f75a-4ec8-4ad9-af9b-2fffd1463e3c" />
+
+
 __________________________________________
 
 
