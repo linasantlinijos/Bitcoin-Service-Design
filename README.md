@@ -122,7 +122,8 @@ The framework can be used to identify which user groups a product serves today, 
 
 Each persona represents a distinct relationship with bitcoin, defined by three interconnected elements: the mental model of what bitcoin is, the primary job bitcoin is hired to perform, and the resulting payment behavior.
 
-<img width="736" height="505" alt="bitcoin_payment_behaviour" src="https://github.com/user-attachments/assets/41fbffe7-e554-43f2-b575-9f668d25fa1f" />
+<img width="1471" height="1010" alt="bitcoin_payment_behaviour_v3" src="https://github.com/user-attachments/assets/daeb32eb-07df-4214-8c51-328961cba3ea" />
+
 
 
 __________________________________________
