@@ -106,14 +106,9 @@ Rather than segmenting users by demographics, transaction volume, or technical e
 
 The framework helped us move beyond the idea of a single "bitcoin user" and instead understand how different users may require different adoption strategies depending on what BTC is doing for them and what they are trying to achieve.
 
-**NEW:**
-
-<img width="1149" height="1369" alt="Image2" src="https://github.com/user-attachments/assets/75272eb7-3858-40fe-960b-966a6e21f6da" />
+<img width="928" height="1130" alt="image_3" src="https://github.com/user-attachments/assets/0f4829a3-af11-4e49-a0a7-512970e7e8cf" />
 
 
-**OLD:** 
-
-![][image2]
 
 ### **BTC Persona Framework**
 
@@ -127,23 +122,26 @@ The framework can be used to identify which user groups a product serves today, 
 
 Each persona represents a distinct relationship with bitcoin, defined by three interconnected elements: the mental model of what bitcoin is, the primary job bitcoin is hired to perform, and the resulting payment behavior.
 
+<img width="736" height="505" alt="bitcoin_payment_behaviour" src="https://github.com/user-attachments/assets/41fbffe7-e554-43f2-b575-9f668d25fa1f" />
+
+
 The personas should not be understood as rigid categories. Instead, they represent recurring behavioral patterns observed across users. Individuals may move between personas over time as their understanding of bitcoin evolves, their circumstances change, or they become more deeply embedded in the bitcoin ecosystem.
 
 ### **BTC Personas**
 
-![][image3]
+<img width="2880" height="1620" alt="holder" src="https://github.com/user-attachments/assets/39e2f75a-4ec8-4ad9-af9b-2fffd1463e3c" />
 
-![][image4]
+<img width="2880" height="1620" alt="native" src="https://github.com/user-attachments/assets/9bd43d62-6c08-43b3-89ba-0a3180b2ec45" />
+<img width="2880" height="1620" alt="curious" src="https://github.com/user-attachments/assets/7a0e252c-6b0f-4501-988e-ca5b082fe05e" />
 
-![][image5]
 
-![][image6]
 
 ### **Barriers & Levers by Persona** 
 
 Opportunity binds three of the four personas. Most of the addressable problem is environmental rather than interface-level. Each lever must match its gate; otherwise, the spend doesn't happen.
 
-![][image7]
+<img width="800" height="1312" alt="barriers_levers" src="https://github.com/user-attachments/assets/317b7210-9bc0-4813-96f0-bf4bcc5f62b7" />
+
 
 ## **Suggestions to Bitcoin Builders**
 
