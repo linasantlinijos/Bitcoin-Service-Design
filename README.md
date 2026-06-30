@@ -132,11 +132,20 @@ The personas should not be understood as rigid categories. Instead, they represe
 <img width="2880" height="1620" alt="holder" src="https://github.com/user-attachments/assets/39e2f75a-4ec8-4ad9-af9b-2fffd1463e3c" />
 __________________________________________
 
-<img width="2880" height="1620" alt="native" src="https://github.com/user-attachments/assets/9bd43d62-6c08-43b3-89ba-0a3180b2ec45" />
+
+<img width="2880" height="1620" alt="pragmatist" src="https://github.com/user-attachments/assets/0bfeedea-93a6-4adf-99ed-5d1777789d9e" />
+
+
 __________________________________________
 
-<img width="2880" height="1620" alt="curious" src="https://github.com/user-attachments/assets/7a0e252c-6b0f-4501-988e-ca5b082fe05e" />
 
+<img width="2880" height="1620" alt="native" src="https://github.com/user-attachments/assets/9bd43d62-6c08-43b3-89ba-0a3180b2ec45" />
+
+
+__________________________________________
+
+
+<img width="2880" height="1620" alt="curious" src="https://github.com/user-attachments/assets/7a0e252c-6b0f-4501-988e-ca5b082fe05e" />
 
 
 ### **Barriers & Levers by Persona** 
