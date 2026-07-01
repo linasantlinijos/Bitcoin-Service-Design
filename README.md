@@ -192,7 +192,7 @@ To summarize, when building Bitcoin products – for humans, AI, or both – tea
 
 ## **What's Next**
 
-In Phase 2, we aim to build on the Phase 1 outputs, deepen the research, and create practical open-source tools for Bitcoin payment product teams.
+In Phase 2, we aim to build on the Phase 1 outputs, deepen the research, and create practical open-source tools for Bitcoin product teams.
 
 The exact scope and timeline are still being defined.
 
