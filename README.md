@@ -165,8 +165,8 @@ __________________________________________
 
 Opportunity binds three of the four personas. Most of the addressable problem is environmental rather than interface-level. Each lever must match its gate; otherwise, the spend doesn't happen.
 
-<img width="1600" height="2623" alt="barriers_levers" src="https://github.com/user-attachments/assets/b207579e-8622-4caf-8701-594bbcaf305a" />
 
+<img width="1600" height="2623" alt="barriers_levers" src="https://github.com/user-attachments/assets/c7e4507c-6fd2-41af-a597-8e754bf8cb84" />
 
 
 ## **Suggestions to Bitcoin Builders**
