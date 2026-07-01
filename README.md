@@ -133,7 +133,7 @@ __________________________________________
 
 ### **BTC Personas**
 
-The personas should not be understood as rigid categories. Instead, they represent recurring behavioral patterns observed across users. Individuals may move between personas over time as their understanding of bitcoin evolves, their circumstances change, or they become more deeply embedded in the bitcoin ecosystem.
+The personas should not be understood as rigid categories. Instead, they represent recurring behavioral patterns observed across users. Individuals may move between personas over time as their understanding of bitcoin evolves, their circumstances change, or they become more deeply embedded in the Bitcoin ecosystem.
 
 <img width="2880" height="1620" alt="holder" src="https://github.com/user-attachments/assets/39e2f75a-4ec8-4ad9-af9b-2fffd1463e3c" />
 
