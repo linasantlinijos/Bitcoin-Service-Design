@@ -176,7 +176,7 @@ Opportunity binds three of the four personas. Most of the addressable problem is
 * Understand the full user journey: where they are coming from, their daily lives, what their relationship with bitcoin is, etc.  
 * Learn where you can actually move the needle and where you'd waste your resources.
 
-The lesson is not that we found something really new. Most of it is already known in the Bitcoin community. The lesson is that this knowledge rarely reaches the design stage – and a service design method is what brings it there: it shows which constraint binds your users, and where effort actually moves them.
+While the things discussed above might already be known within the Bitcoin community, the lesson is that this knowledge should reach the design stage more often – and a service design method is what brings it there. It shows which constraints bind your users and where effort actually moves them.
 
 Therefore, focusing on designing the wider service conditions in which BTC payments become meaningful, available, and habitual – and doing it with a clear understanding of the BTC user, their behavior, and the competitive landscape – is possibly the most efficient way to accelerate BTC payment adoption.
 
