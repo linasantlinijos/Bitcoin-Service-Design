@@ -107,7 +107,7 @@ Rather than segmenting users by demographics, transaction volume, or technical e
 The framework helped us move beyond the idea of a single "bitcoin user" and instead understand how different users may require different adoption strategies depending on what BTC is doing for them and what they are trying to achieve.
 
 
-<img width="928" height="1130" alt="image_3" src="https://github.com/user-attachments/assets/af05f526-a6d2-4c95-9ace-87fbcd407636" />
+<img width="1920" height="2212" alt="ecosystem" src="https://github.com/user-attachments/assets/ab5d535f-2861-4ddf-ae46-94bc40ac0594" />
 
 
 
@@ -123,7 +123,7 @@ The framework can be used to identify which user groups a product serves today, 
 
 Each persona represents a distinct relationship with bitcoin, defined by three interconnected elements: the mental model of what bitcoin is, the primary job bitcoin is hired to perform, and the resulting payment behavior.
 
-<img width="1471" height="1010" alt="bitcoin_payment_behaviour_v3" src="https://github.com/user-attachments/assets/daeb32eb-07df-4214-8c51-328961cba3ea" />
+<img width="2160" height="1996" alt="mental_models" src="https://github.com/user-attachments/assets/efa70c8b-78ab-434b-9280-f4f31b6f7aa5" />
 
 
 
@@ -166,7 +166,8 @@ __________________________________________
 Opportunity binds three of the four personas. Most of the addressable problem is environmental rather than interface-level. Each lever must match its gate; otherwise, the spend doesn't happen.
 
 
-<img width="1600" height="2623" alt="barriers_levers" src="https://github.com/user-attachments/assets/0407ab88-8be7-4753-af47-36ca006cb1d1" />
+<img width="2160" height="2758" alt="barriers_levers" src="https://github.com/user-attachments/assets/eaf4b8b5-6f4b-4357-b93e-30f84fd88982" />
+
 
 
 ## **Suggestions to Bitcoin Builders**
