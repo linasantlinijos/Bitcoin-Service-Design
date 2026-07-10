@@ -107,7 +107,7 @@ Rather than segmenting users by demographics, transaction volume, or technical e
 The framework helped us move beyond the idea of a single "bitcoin user" and instead understand how different users may require different adoption strategies depending on what BTC is doing for them and what they are trying to achieve.
 
 
-<img width="1920" height="2212" alt="ecosystem" src="https://github.com/user-attachments/assets/ab5d535f-2861-4ddf-ae46-94bc40ac0594" />
+<img width="1840" height="2209" alt="ecosystem" src="https://github.com/user-attachments/assets/62fd85f0-e3d5-4235-ada6-41a250fc2f85" />
 
 
 
