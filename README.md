@@ -123,7 +123,8 @@ The framework can be used to identify which user groups a product serves today, 
 
 Each persona represents a distinct relationship with bitcoin, defined by three interconnected elements: the mental model of what bitcoin is, the primary job bitcoin is hired to perform, and the resulting payment behavior.
 
-<img width="2160" height="1996" alt="mental_models" src="https://github.com/user-attachments/assets/efa70c8b-78ab-434b-9280-f4f31b6f7aa5" />
+
+<img width="2108" height="1942" alt="mental_models" src="https://github.com/user-attachments/assets/3387b4dc-0879-4082-94a6-3032b1b42f47" />
 
 
 
