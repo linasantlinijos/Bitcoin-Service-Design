@@ -142,7 +142,7 @@ The personas should not be understood as rigid categories. Instead, they represe
 __________________________________________
 
 
-<img width="2880" height="1620" alt="pragmatist" src="https://github.com/user-attachments/assets/0bfeedea-93a6-4adf-99ed-5d1777789d9e" />
+<img width="2880" height="1620" alt="pragmatist" src="https://github.com/user-attachments/assets/d7b8d95f-17c2-41e2-b0a1-33d6fe85f517" />
 
 
 __________________________________________
